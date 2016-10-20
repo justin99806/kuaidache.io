@@ -1,0 +1,7 @@
+.qr-downloads img {
+  width: 50%;
+  max-width: 200px;
+}
+.qr-downloads .download-item {
+  margin-bottom: 2em;
+}
